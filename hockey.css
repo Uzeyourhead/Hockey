@@ -4,6 +4,21 @@ body
 	margin: 0px;
 }
 
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+p
+{
+margin-left:55px;
+margin-top:-40px;
+}
 .header
 {
 	width: 1300px;
@@ -197,6 +212,15 @@ body
 	float: left;
 
 }
+
+.teams 
+{
+           font-family: FiraSans;
+            height: 100%;
+            font-size:25px;
+            width: 100%; 
+}
+
 .skribent
 {
 	margin-top: 30px;

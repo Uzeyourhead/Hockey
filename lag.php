@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Bootstrap 101 Template</title>
+    <title>Ny hemsida</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -116,129 +116,84 @@
 
 <div class="slidecontainer">
 
-      <img src="hall.jpg" />
-
 </div>
 
         <div class="newscontainer">
 
-          <h3>Alfredsson avtackades i natt</h3>
-          <p>Skrivet av Martin Ericsson inom Hockey, NHL, Ottawa Senators, Daniel Alfredsson den 5 Dec 2014 kl 08:18</p>
-          <hr></hr>
+          <img class="newsbanner" src="banner.gif">
+<div class="teams">
+<img src="images/anaheim.png" height="52" width="42"><p>Anaheim Ducks<br></p>
+<hr>
+<img src="images/arizona.jpg" height="42" width="42"><p>Arizona Coyotes<br></p>
+<hr>
+<img src="images/boston.png" height="42" width="42"><p>Boston Bruins<br></p>
+<hr>
+<img src="images/buffalo.gif"  height="42" width="42"><p>Buffalo Sabres<br></p>
+<hr>
+<img src="images/calgary.png" height="42" width="42"><p>Calgary Flames<br></p>
+<hr>
+<img src="images/carolina.png"  height="42" width="42"><p>Carolina Hurricanes<br></p>
+<hr>
+<img src="images/chicago.png"  height="42" width="42"><p>Chicago Blackhawks<br></p>
+<hr>
+<img src="images/colorado.png"  height="42" width="42"><p>Colorado Avalanche<br></p>
+<hr>
+<img src="images/columbus.png"  height="42" width="42"><p>Columbus Blue Jackets<br></p>
+<hr>
+<img src="images/dallas.png"  height="42" width="42"><p>Dallas Stars<br></p>
+<hr>
+<img src="images/detroit.png"  height="42" width="42"><p>Detroit Red Wings<br></p>
+<hr>
+<img src="images/oilers.jpg"  height="42" width="42"><p>Edmonton Oilers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/kings.png"  height="42" width="42"><p>Los Angeles Kings<br></p>
+<hr>
+<img src="images/minnesota.png"  height="42" width="42"><p>Minnesota Wild<br></p>
+<hr>
+<img src="images/montreal.png"  height="42" width="42"><p>Montreal Canadiens<br></p>
+<hr>
+<img src="images/nashville.png"  height="42" width="42"><p>Nashville Predators<br></p>
+<hr>
+<img src="images/newjersey.png"  height="42" width="42"><p>New Jersey Devils<br></p>
+<hr>
+<img src="images/newyorkislanders.png"  height="42" width="42"><p>New York Islanders<br></p>
+<hr>
+<img src="images/newyorkrangers.png"  height="42" width="42"><p>New York Rangers<br></p>
+<hr>
+<img src="images/ottawa.png"  height="42" width="42"><p>Ottawa Senators<br></p>
+<hr>
+<img src="images/flyers.png"  height="42" width="42"><p>Philadelphia Flyers<br></p>
+<hr>
+<img src="images/penguins.png"  height="42" width="42"><p>Pittsburgh Penguins<br></p>
+<hr>
+<img src="images/sharks.png"  height="42" width="42"><p>San José Sharks<br></p>
+<hr>
+<img src="images/blues.png"  height="42" width="42"><p>St.Louis Blues<br></p>
+<hr>
+<img src="images/tampabay.png"  height="42" width="42"><p>Tampa Bay Lightning<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
 
-          <div class="subarticle">
-          <strong><p>Daniel Alfredsson tackades av i Ottawa i natt, och det blev känslosamt för många. Han spenderade 17 säsonger i klubben och jublet visste inga gränser när han återigen beträdde isen i arenan.
-          – Tack så enormt mycket, sa Alfredsson under sitt tal.</p></strong>
-          </div>
-          <div class="taggzon">
-            <ul class="tagglist">
-              <li>Bobrovsky satte klubbrekord</li>
-              <li>Bobrovsky satte klubbrekord</li>
-              <li>Bobrovsky satte klubbrekord</li>
-              <li>Bobrovsky satte klubbrekord</li>
-            </ul>
-          </div>
-
-          <p style="text-align:justify; width:500px;">Daniel Alfredsson tackades av i Ottawa i natt, och det blev känslosamt för många. Han spenderade 17 säsonger i klubben och jublet visste inga gränser när han återigen beträdde</p>
-          <p class="articlep">Daniel Alfredsson tackades av i Ottawa i natt, och det blev känslosamt för många. Han spenderade 17 säsonger i klubben och jublet visste inga gränser när han återigen beträdde isen i arenan.
-          – Tack så enormt mycket, sa Alfredsson under sitt tal.Daniel Alfredsson tackades av i Ottawa i natt, och det blev känslosamt för många. Han spenderade 17 säsonger i klubben och jublet visste inga gränser när han återigen beträdde isen i arenan.
-          – Tack så enormt mycket, sa Alfredsson under sitt tal.I går kom avskedet från NHL-världen på en presskonferens och när laget sedan tog emot New York Islanders på hemmaplan tackades han av utav Ottawa-publiken. Och det blev minst sagt en kväll att minnas för alla inblandade.
-
-Publiken skanderade "Alfie, Alfie, Alfie" om och om igen medan 41-åringen åkte runt på isen med klubban höjd mot taket. Efteråt höll han ett kort tal för publiken och sina gamla lagkamrater och ledare.
-
-– Tack så enormt mycket. Det är fantastiskt att vara tillbaka i Ottawa. Tack för alla minnen. De kommer att förbinda oss för evigt. Men åt oss inte säga farväl, låt oss säga på återseende, sa han bland annat.</p>
-   
-<p>Dela med dig av "Alfredsson avtackades i natt" till dina vänner:</p>
-
-<h4>Like knappar</h4>
-
-<div class="skribent">
-
-  <img class="profilbild" src="martin.jpg">
-
-  <div class="skribentinfo">
-    <p class="namn">Martin Eriksson</p>
-    <p class="titel">Chefsredaktör</p>
-    <hr class="line">
-    <p class="mer">Läs mer av Martin Ericsson     Maila Martin Ericsson     mareri85</p>
-  </div>
 
 </div>
-
-<div class="comments">
-</div>
-</div>
-
-<br>
-
-
-<div class="news">
-
-<div class="newscontainer">
-    <h2>NHL-nyheter</h2>
-
-        <div class="rows">
-          <img src="1.png">
-          <h3>test</h3>
-          <p>test</p>
-        </div>
-
-        <div class="rows">
-          <img src="1.png">
-          <h3>test</h3>
-          <p>test</p>
-        </div>
-
-        <div class="rows">
-          <img src="1.png">
-          <h3>test</h3>
-          <p>test</p>
-        </div>
-
-        <div class="rows">
-          <img src="1.png">
-          <h3>test</h3>
-          <p>test</p>
-        </div>
-
-        <div class="rows">
-          <img src="1.png">
-          <h3>test</h3>
-          <p>test</p>
-        </div>
-
-         <div class="rows">
-          <img src="1.png">
-          <h3>test</h3>
-          <p>test</p>
-        </div>
-
-        <img class="newsbanner" src="banner.gif">
-
-         <div class="rows">
-          <img src="1.png">
-          <h3>test</h3>
-          <p>test</p>
-        </div>
-
-        <div class="rows">
-          <img src="1.png">
-          <h3>test</h3>
-          <p>test</p>
-        </div>
-
-        <div class="rows">
-          <img src="1.png">
-          <h3>test</h3>
-          <p>test</p>
-        </div>
-
-
-
-
-      </div>
-
-
 
 
       </div>
