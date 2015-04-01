@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Bootstrap 101 Template</title>
+    <title>Ny hemsida</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -28,10 +28,10 @@
 
   	<div class="header">
 
-      <img class="logo" src="images/logo.png">
+      <img class="logo" src="logo.png">
 
         <div style="width:728px; height:150px; display:block; margin-left:auto; margin-right:auto;">
-          <img class="topbanner" src="images/banner.gif">
+          <img class="topbanner" src="banner.gif">
         </div>
 
   		<nav class="navbar navbar-default">
@@ -115,128 +115,95 @@
   		<div class="news"> 
 
 <div class="slidecontainer">
-
-      <img src="images/hall.jpg" />
-
+<div class="flexslider">
+  <ul class="slides">
+    <li>
+      <img src="hall.jpg" />
+    </li>
+    <li>
+      <img src="hall.jpg" />
+    </li>
+    <li>
+      <img src="hall.jpg" />
+    </li>
+    <li>
+      <img src="hall.jpg" />
+    </li>
+  </ul>
+</div> 
 </div>
 
         <div class="newscontainer">
 
-          <h3>Alfredsson avtackades i natt</h3>
-          <p>Skrivet av Martin Ericsson inom Hockey, NHL, Ottawa Senators, Daniel Alfredsson den 5 Dec 2014 kl 08:18</p>
-          <hr></hr>
-
-          <div class="subarticle">
-          <strong><p>Daniel Alfredsson tackades av i Ottawa i natt, och det blev känslosamt för många. Han spenderade 17 säsonger i klubben och jublet visste inga gränser när han återigen beträdde isen i arenan.
-          – Tack så enormt mycket, sa Alfredsson under sitt tal.</p></strong>
-          </div>
-          <div class="taggzon">
-            <ul class="tagglist">
-              <li>Bobrovsky satte klubbrekord</li>
-              <li>Bobrovsky satte klubbrekord</li>
-              <li>Bobrovsky satte klubbrekord</li>
-              <li>Bobrovsky satte klubbrekord</li>
-            </ul>
-          </div>
-
-          <p style="text-align:justify; width:500px;">Daniel Alfredsson tackades av i Ottawa i natt, och det blev känslosamt för många. Han spenderade 17 säsonger i klubben och jublet visste inga gränser när han återigen beträdde</p>
-          <p class="articlep">Daniel Alfredsson tackades av i Ottawa i natt, och det blev känslosamt för många. Han spenderade 17 säsonger i klubben och jublet visste inga gränser när han återigen beträdde isen i arenan.
-          – Tack så enormt mycket, sa Alfredsson under sitt tal.Daniel Alfredsson tackades av i Ottawa i natt, och det blev känslosamt för många. Han spenderade 17 säsonger i klubben och jublet visste inga gränser när han återigen beträdde isen i arenan.
-          – Tack så enormt mycket, sa Alfredsson under sitt tal.I går kom avskedet från NHL-världen på en presskonferens och när laget sedan tog emot New York Islanders på hemmaplan tackades han av utav Ottawa-publiken. Och det blev minst sagt en kväll att minnas för alla inblandade.
-
-Publiken skanderade "Alfie, Alfie, Alfie" om och om igen medan 41-åringen åkte runt på isen med klubban höjd mot taket. Efteråt höll han ett kort tal för publiken och sina gamla lagkamrater och ledare.
-
-– Tack så enormt mycket. Det är fantastiskt att vara tillbaka i Ottawa. Tack för alla minnen. De kommer att förbinda oss för evigt. Men åt oss inte säga farväl, låt oss säga på återseende, sa han bland annat.</p>
-   
-<p>Dela med dig av "Alfredsson avtackades i natt" till dina vänner:</p>
-
-<h4>Like knappar</h4>
-
-<div class="skribent">
-
-  <img class="profilbild" src="images/martin.jpg">
-
-  <div class="skribentinfo">
-    <p class="namn">Martin Eriksson</p>
-    <p class="titel">Chefsredaktör</p>
-    <hr class="line">
-    <p class="mer">Läs mer av Martin Ericsson     Maila Martin Ericsson     mareri85</p>
-  </div>
-
-</div>
-
-<div class="comments">
-</div>
-</div>
-
-<br>
-
-
-<div class="news">
-
-<div class="newscontainer">
-    <h2>NHL-nyheter</h2>
+          <img class="newsbanner" src="banner.gif">
 
         <div class="rows">
-          <img src="images/1.png">
+          <img src="1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
         <div class="rows">
-          <img src="images/1.png">
+          <img src="1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
         <div class="rows">
-          <img src="images/1.png">
+          <img src="1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
         <div class="rows">
-          <img src="images/1.png">
+          <img src="1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
         <div class="rows">
-          <img src="images/1.png">
+          <img src="1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
          <div class="rows">
-          <img src="images/1.png">
+          <img src="1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
-        <img class="newsbanner" src="images/banner.gif">
+        <img class="newsbanner" src="banner.gif">
 
          <div class="rows">
-          <img src="images/1.png">
+          <img src="1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
         <div class="rows">
-          <img src="images/1.png">
+          <img src="1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
         <div class="rows">
-          <img src="images/1.png">
+          <img src="1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
+        <div class="rows">
+          <img src="1.png">
+          <h3>test</h3>
+          <p>test</p>
+        </div>
 
-
-
-      </div>
+        <div class="rows">
+          <img src="1.png">
+          <h3>test</h3>
+          <p>test</p>
+        </div>
 
 
 
@@ -253,64 +220,64 @@ Publiken skanderade "Alfie, Alfie, Alfie" om och om igen medan 41-åringen åkte
 <center>
         <div class="senaste">
           <h3>senaste match</h3>
-          <img class="teamlogo" src="images/ny.png">
+          <img class="teamlogo" src="ny.png">
           <span>VS</span>
-          <img class="teamlogo" src="images/ny.png">
+          <img class="teamlogo" src="ny.png">
       </div>
 </center>
 
 <center>
         <div class="senaste">
           <h3>senaste match</h3>
-          <img class="teamlogo" src="images/ny.png">
+          <img class="teamlogo" src="ny.png">
           <span>VS</span>
-          <img class="teamlogo" src="images/ny.png">
+          <img class="teamlogo" src="ny.png">
           <br>
           <br>
-          <img class="teamlogo" src="images/ny.png">
+          <img class="teamlogo" src="ny.png">
           <span>VS</span>
-          <img class="teamlogo" src="images/ny.png">
+          <img class="teamlogo" src="ny.png">
       </div>
 </center>
 
-<div class="sidebanner"><img src="images/banner.jpg"></div>
+<div class="sidebanner"><img src="banner.jpg"></div>
 
 
 <center>
         <div class="senaste">
           <h3>senaste match</h3>
-          <img class="teamlogo" src="images/ny.png">
+          <img class="teamlogo" src="ny.png">
           <span>VS</span>
-          <img class="teamlogo" src="images/ny.png">
-      </div>
-</center>
-
-<center>
-        <div class="senaste">
-          <h3>senaste match</h3>
-          <img class="teamlogo" src="images/ny.png">
-          <span>VS</span>
-          <img class="teamlogo" src="images/ny.png">
-      </div>
-</center>
-
-<div class="sidebanner"><img src="images/banner.jpg"></div>
-
-<center>
-        <div class="senaste">
-          <h3>senaste match</h3>
-          <img class="teamlogo" src="images/ny.png">
-          <span>VS</span>
-          <img class="teamlogo" src="images/ny.png">
+          <img class="teamlogo" src="ny.png">
       </div>
 </center>
 
 <center>
         <div class="senaste">
           <h3>senaste match</h3>
-          <img class="teamlogo" src="images/ny.png">
+          <img class="teamlogo" src="ny.png">
           <span>VS</span>
-          <img class="teamlogo" src="images/ny.png">
+          <img class="teamlogo" src="ny.png">
+      </div>
+</center>
+
+<div class="sidebanner"><img src="banner.jpg"></div>
+
+<center>
+        <div class="senaste">
+          <h3>senaste match</h3>
+          <img class="teamlogo" src="ny.png">
+          <span>VS</span>
+          <img class="teamlogo" src="ny.png">
+      </div>
+</center>
+
+<center>
+        <div class="senaste">
+          <h3>senaste match</h3>
+          <img class="teamlogo" src="ny.png">
+          <span>VS</span>
+          <img class="teamlogo" src="ny.png">
       </div>
 </center>
   		</div>
