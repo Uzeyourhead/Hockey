@@ -100,6 +100,7 @@ body
 {
 	float: left;
 	margin: 10px;
+
 }
 
 .senaste
@@ -121,6 +122,11 @@ body
 {
 	width: 80px;
 
+}
+h3
+{
+	font-size: 18px;
+	margin-bottom: 2px;
 }
 .sidebanner
 {
