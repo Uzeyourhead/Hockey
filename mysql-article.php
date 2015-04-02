@@ -1,4 +1,4 @@
-<?php
+	<?php
 include_once("config.php");
 
 if ($mysqli->connect_error) {
