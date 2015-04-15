@@ -115,6 +115,7 @@
   		<div class="news"> 
 
 <div class="slidecontainer">
+<<<<<<< HEAD
 <div class="flexslider">
   <ul class="slides">
     <li>
@@ -131,11 +132,15 @@
     </li>
   </ul>
 </div> 
+=======
+
+>>>>>>> origin/master
 </div>
 
         <div class="newscontainer">
 
           <img class="newsbanner" src="banner.gif">
+<<<<<<< HEAD
 
         <div class="rows">
           <img src="images/1.png">
@@ -204,8 +209,82 @@
           <h3>test</h3>
           <p>test</p>
         </div>
+=======
+<div class="teams">
+<img src="images/anaheim.png" height="52" width="42"><div class="team1">Anaheim Ducks<br>Arizona Coyotes</div> <div class="vs">VS<br>VS<br>VS<br></div> <div class="image2"><img src="images/arizona.jpg" height="42" width="42"></div><div class="team2">Arizona Coyotes</div>
+<div class="hr"> </div>
+<br>
+<img src="images/arizona.jpg" height="42" width="42"><div class="team1">Arizona Coyotes</div><br>
+<hr>
+<img src="images/boston.png" height="42" width="42">Boston Bruins<br>
+<hr>
+<img src="images/buffalo.gif"  height="42" width="42">Buffalo Sabres<br>
+<hr>
+<img src="images/calgary.png" height="42" width="42"><p>Calgary Flames<br></p>
+<hr>
+<img src="images/carolina.png"  height="42" width="42"><p>Carolina Hurricanes<br></p>
+<hr>
+<img src="images/chicago.png"  height="42" width="42"><p>Chicago Blackhawks<br></p>
+<hr>
+<img src="images/colorado.png"  height="42" width="42"><p>Colorado Avalanche<br></p>
+<hr>
+<img src="images/columbus.png"  height="42" width="42"><p>Columbus Blue Jackets<br></p>
+<hr>
+<img src="images/dallas.png"  height="42" width="42"><p>Dallas Stars<br></p>
+<hr>
+<img src="images/detroit.png"  height="42" width="42"><p>Detroit Red Wings<br></p>
+<hr>
+<img src="images/oilers.jpg"  height="42" width="42"><p>Edmonton Oilers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/kings.png"  height="42" width="42"><p>Los Angeles Kings<br></p>
+<hr>
+<img src="images/minnesota.png"  height="42" width="42"><p>Minnesota Wild<br></p>
+<hr>
+<img src="images/montreal.png"  height="42" width="42"><p>Montreal Canadiens<br></p>
+<hr>
+<img src="images/nashville.png"  height="42" width="42"><p>Nashville Predators<br></p>
+<hr>
+<img src="images/newjersey.png"  height="42" width="42"><p>New Jersey Devils<br></p>
+<hr>
+<img src="images/newyorkislanders.png"  height="42" width="42"><p>New York Islanders<br></p>
+<hr>
+<img src="images/newyorkrangers.png"  height="42" width="42"><p>New York Rangers<br></p>
+<hr>
+<img src="images/ottawa.png"  height="42" width="42"><p>Ottawa Senators<br></p>
+<hr>
+<img src="images/flyers.png"  height="42" width="42"><p>Philadelphia Flyers<br></p>
+<hr>
+<img src="images/penguins.png"  height="42" width="42"><p>Pittsburgh Penguins<br></p>
+<hr>
+<img src="images/sharks.png"  height="42" width="42"><p>San José Sharks<br></p>
+<hr>
+<img src="images/blues.png"  height="42" width="42"><p>St.Louis Blues<br></p>
+<hr>
+<img src="images/tampabay.png"  height="42" width="42"><p>Tampa Bay Lightning<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+<hr>
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+>>>>>>> origin/master
 
 
+</div>
 
 
       </div>
