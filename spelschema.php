@@ -28,10 +28,10 @@
 
   	<div class="header">
 
-      <img class="logo" src="logo.png">
+      <img class="logo" src="images/logo.png">
 
         <div style="width:728px; height:150px; display:block; margin-left:auto; margin-right:auto;">
-          <img class="topbanner" src="banner.gif">
+          <img class="topbanner" src="images/banner.gif">
         </div>
 
   		<nav class="navbar navbar-default">
@@ -118,16 +118,16 @@
 <div class="flexslider">
   <ul class="slides">
     <li>
-      <img src="hall.jpg" />
+      <img src="images/hall.jpg" />
     </li>
     <li>
-      <img src="hall.jpg" />
+      <img src="images/hall.jpg" />
     </li>
     <li>
-      <img src="hall.jpg" />
+      <img src="images/hall.jpg" />
     </li>
     <li>
-      <img src="hall.jpg" />
+      <img src="images/hall.jpg" />
     </li>
   </ul>
 </div> 
@@ -138,37 +138,37 @@
           <img class="newsbanner" src="banner.gif">
 
         <div class="rows">
-          <img src="1.png">
+          <img src="images/1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
         <div class="rows">
-          <img src="1.png">
+          <img src="images/1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
         <div class="rows">
-          <img src="1.png">
+          <img src="images/1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
         <div class="rows">
-          <img src="1.png">
+          <img src="images/1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
         <div class="rows">
-          <img src="1.png">
+          <img src="images/1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
          <div class="rows">
-          <img src="1.png">
+          <img src="images/1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
@@ -176,31 +176,31 @@
         <img class="newsbanner" src="banner.gif">
 
          <div class="rows">
-          <img src="1.png">
+          <img src="images/1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
         <div class="rows">
-          <img src="1.png">
+          <img src="images/1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
         <div class="rows">
-          <img src="1.png">
+          <img src="images/1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
         <div class="rows">
-          <img src="1.png">
+          <img src="images/1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
 
         <div class="rows">
-          <img src="1.png">
+          <img src="images/1.png">
           <h3>test</h3>
           <p>test</p>
         </div>
@@ -220,27 +220,27 @@
 <center>
         <div class="senaste">
           <h3>senaste match</h3>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
           <span>VS</span>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
       </div>
 </center>
 
 <center>
         <div class="senaste">
           <h3>senaste match</h3>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
           <span>VS</span>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
           <br>
           <br>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
           <span>VS</span>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
       </div>
 </center>
 
-<div class="sidebanner"><img src="banner.jpg"></div>
+<div class="sidebanner"><img src="images/banner.jpg"></div>
 
 
 <center>
