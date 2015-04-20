@@ -115,12 +115,105 @@
   		<div class="news"> 
 
 <div class="slidecontainer">
+<<<<<<< HEAD
+<div class="flexslider">
+  <ul class="slides">
+    <li>
+      <img src="images/hall.jpg" />
+    </li>
+    <li>
+      <img src="images/hall.jpg" />
+    </li>
+    <li>
+      <img src="images/hall.jpg" />
+    </li>
+    <li>
+      <img src="images/hall.jpg" />
+    </li>
+  </ul>
+</div> 
+=======
 
+>>>>>>> origin/master
 </div>
 
         <div class="newscontainer">
 
+<<<<<<< HEAD
           <img class="newsbanner" src="images/banner.gif">
+=======
+          <img class="newsbanner" src="banner.gif">
+<<<<<<< HEAD
+
+        <div class="rows">
+          <img src="images/1.png">
+          <h3>test</h3>
+          <p>test</p>
+        </div>
+
+        <div class="rows">
+          <img src="images/1.png">
+          <h3>test</h3>
+          <p>test</p>
+        </div>
+
+        <div class="rows">
+          <img src="images/1.png">
+          <h3>test</h3>
+          <p>test</p>
+        </div>
+
+        <div class="rows">
+          <img src="images/1.png">
+          <h3>test</h3>
+          <p>test</p>
+        </div>
+
+        <div class="rows">
+          <img src="images/1.png">
+          <h3>test</h3>
+          <p>test</p>
+        </div>
+
+         <div class="rows">
+          <img src="images/1.png">
+          <h3>test</h3>
+          <p>test</p>
+        </div>
+
+        <img class="newsbanner" src="banner.gif">
+
+         <div class="rows">
+          <img src="images/1.png">
+          <h3>test</h3>
+          <p>test</p>
+        </div>
+
+        <div class="rows">
+          <img src="images/1.png">
+          <h3>test</h3>
+          <p>test</p>
+        </div>
+
+        <div class="rows">
+          <img src="images/1.png">
+          <h3>test</h3>
+          <p>test</p>
+        </div>
+
+        <div class="rows">
+          <img src="images/1.png">
+          <h3>test</h3>
+          <p>test</p>
+        </div>
+
+        <div class="rows">
+          <img src="images/1.png">
+          <h3>test</h3>
+          <p>test</p>
+        </div>
+=======
+>>>>>>> origin/master
 <div class="teams">
 <img src="images/anaheim.png" height="52" width="42"><div class="team1">Anaheim Ducks</div> <div class="vs">VS</div> <div class="image2"><img src="images/arizona.jpg" height="42" width="42"></div><div class="team2">Arizona Coyotes</div>
 <br>
@@ -142,6 +235,13 @@
 <br>
 <div class="smalltext">Tisdag 20:00 10/4 - 2015</div>
 <hr>
+<<<<<<< HEAD
+=======
+<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
+>>>>>>> origin/master
+
+
+>>>>>>> origin/master
 </div>
 
 
@@ -171,9 +271,9 @@
           <img class="teamlogo" src="images/ny.png">
           <br>
           <br>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
           <span>VS</span>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
       </div>
 </center>
 
