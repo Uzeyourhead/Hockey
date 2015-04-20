@@ -28,10 +28,10 @@
 
   	<div class="header">
 
-      <img class="logo" src="logo.png">
+      <img class="logo" src="images/logo.png">
 
         <div style="width:728px; height:150px; display:block; margin-left:auto; margin-right:auto;">
-          <img class="topbanner" src="banner.gif">
+          <img class="topbanner" src="images/banner.gif">
         </div>
 
   		<nav class="navbar navbar-default">
@@ -120,80 +120,28 @@
 
         <div class="newscontainer">
 
-          <img class="newsbanner" src="banner.gif">
+          <img class="newsbanner" src="images/banner.gif">
 <div class="teams">
-<img src="images/anaheim.png" height="52" width="42"><div class="team1">Anaheim Ducks<br>Arizona Coyotes</div> <div class="vs">VS<br>VS<br>VS<br></div> <div class="image2"><img src="images/arizona.jpg" height="42" width="42"></div><div class="team2">Arizona Coyotes</div>
-<div class="hr"> </div>
+<img src="images/anaheim.png" height="52" width="42"><div class="team1">Anaheim Ducks</div> <div class="vs">VS</div> <div class="image2"><img src="images/arizona.jpg" height="42" width="42"></div><div class="team2">Arizona Coyotes</div>
 <br>
-<img src="images/arizona.jpg" height="42" width="42"><div class="team1">Arizona Coyotes</div><br>
+<div class="smalltext">Måndag 20:00 9/4 - 2015</div>
 <hr>
-<img src="images/boston.png" height="42" width="42">Boston Bruins<br>
+<img src="images/calgary.png" height="52" width="42"><div class="team1">Calgary Flames</div> <div class="vs">VS</div> <div class="image2"><img src="images/columbus.png" height="42" width="42"></div><div class="team2">Columbus Blue Jackets</div>
+<br>
+<div class="smalltext">Tisdag 20:00 10/4 - 2015</div>
 <hr>
-<img src="images/buffalo.gif"  height="42" width="42">Buffalo Sabres<br>
+<img src="images/calgary.png" height="52" width="42"><div class="team1">Calgary Flames</div> <div class="vs">VS</div> <div class="image2"><img src="images/columbus.png" height="42" width="42"></div><div class="team2">Columbus Blue Jackets</div>
+<br>
+<div class="smalltext">Tisdag 20:00 10/4 - 2015</div>
 <hr>
-<img src="images/calgary.png" height="42" width="42"><p>Calgary Flames<br></p>
+<img src="images/calgary.png" height="52" width="42"><div class="team1">Calgary Flames</div> <div class="vs">VS</div> <div class="image2"><img src="images/columbus.png" height="42" width="42"></div><div class="team2">Columbus Blue Jackets</div>
+<br>
+<div class="smalltext">Tisdag 20:00 10/4 - 2015</div>
 <hr>
-<img src="images/carolina.png"  height="42" width="42"><p>Carolina Hurricanes<br></p>
+<img src="images/calgary.png" height="52" width="42"><div class="team1">Calgary Flames</div> <div class="vs">VS</div> <div class="image2"><img src="images/columbus.png" height="42" width="42"></div><div class="team2">Columbus Blue Jackets</div>
+<br>
+<div class="smalltext">Tisdag 20:00 10/4 - 2015</div>
 <hr>
-<img src="images/chicago.png"  height="42" width="42"><p>Chicago Blackhawks<br></p>
-<hr>
-<img src="images/colorado.png"  height="42" width="42"><p>Colorado Avalanche<br></p>
-<hr>
-<img src="images/columbus.png"  height="42" width="42"><p>Columbus Blue Jackets<br></p>
-<hr>
-<img src="images/dallas.png"  height="42" width="42"><p>Dallas Stars<br></p>
-<hr>
-<img src="images/detroit.png"  height="42" width="42"><p>Detroit Red Wings<br></p>
-<hr>
-<img src="images/oilers.jpg"  height="42" width="42"><p>Edmonton Oilers<br></p>
-<hr>
-<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
-<hr>
-<img src="images/kings.png"  height="42" width="42"><p>Los Angeles Kings<br></p>
-<hr>
-<img src="images/minnesota.png"  height="42" width="42"><p>Minnesota Wild<br></p>
-<hr>
-<img src="images/montreal.png"  height="42" width="42"><p>Montreal Canadiens<br></p>
-<hr>
-<img src="images/nashville.png"  height="42" width="42"><p>Nashville Predators<br></p>
-<hr>
-<img src="images/newjersey.png"  height="42" width="42"><p>New Jersey Devils<br></p>
-<hr>
-<img src="images/newyorkislanders.png"  height="42" width="42"><p>New York Islanders<br></p>
-<hr>
-<img src="images/newyorkrangers.png"  height="42" width="42"><p>New York Rangers<br></p>
-<hr>
-<img src="images/ottawa.png"  height="42" width="42"><p>Ottawa Senators<br></p>
-<hr>
-<img src="images/flyers.png"  height="42" width="42"><p>Philadelphia Flyers<br></p>
-<hr>
-<img src="images/penguins.png"  height="42" width="42"><p>Pittsburgh Penguins<br></p>
-<hr>
-<img src="images/sharks.png"  height="42" width="42"><p>San José Sharks<br></p>
-<hr>
-<img src="images/blues.png"  height="42" width="42"><p>St.Louis Blues<br></p>
-<hr>
-<img src="images/tampabay.png"  height="42" width="42"><p>Tampa Bay Lightning<br></p>
-<hr>
-<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
-<hr>
-<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
-<hr>
-<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
-<hr>
-<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
-<hr>
-<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
-<hr>
-<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
-<hr>
-<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
-<hr>
-<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
-<hr>
-<img src="images/florida.png"  height="42" width="42"><p>Florida Tigers<br></p>
-
-
 </div>
 
 
@@ -209,18 +157,18 @@
 <center>
         <div class="senaste">
           <h3>senaste match</h3>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
           <span>VS</span>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
       </div>
 </center>
 
 <center>
         <div class="senaste">
           <h3>senaste match</h3>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
           <span>VS</span>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
           <br>
           <br>
           <img class="teamlogo" src="ny.png">
@@ -229,44 +177,44 @@
       </div>
 </center>
 
+<div class="sidebanner"><img src="images/banner.jpg"></div>
+
+
+<center>
+        <div class="senaste">
+          <h3>senaste match</h3>
+          <img class="teamlogo" src="images/ny.png">
+          <span>VS</span>
+          <img class="teamlogo" src="images/ny.png">
+      </div>
+</center>
+
+<center>
+        <div class="senaste">
+          <h3>senaste match</h3>
+          <img class="teamlogo" src="images/ny.png">
+          <span>VS</span>
+          <img class="teamlogo" src="images/ny.png">
+      </div>
+</center>
+
 <div class="sidebanner"><img src="banner.jpg"></div>
 
-
 <center>
         <div class="senaste">
           <h3>senaste match</h3>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
           <span>VS</span>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
       </div>
 </center>
 
 <center>
         <div class="senaste">
           <h3>senaste match</h3>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
           <span>VS</span>
-          <img class="teamlogo" src="ny.png">
-      </div>
-</center>
-
-<div class="sidebanner"><img src="banner.jpg"></div>
-
-<center>
-        <div class="senaste">
-          <h3>senaste match</h3>
-          <img class="teamlogo" src="ny.png">
-          <span>VS</span>
-          <img class="teamlogo" src="ny.png">
-      </div>
-</center>
-
-<center>
-        <div class="senaste">
-          <h3>senaste match</h3>
-          <img class="teamlogo" src="ny.png">
-          <span>VS</span>
-          <img class="teamlogo" src="ny.png">
+          <img class="teamlogo" src="images/ny.png">
       </div>
 </center>
   		</div>

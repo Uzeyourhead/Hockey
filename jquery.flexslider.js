@@ -9,7 +9,12 @@
   //FlexSlider: Object Instance
   $.flexslider = function(el, options) {
     var slider = $(el);
-
+var $flexslider = $('.flexslider');
+$flexslider.flexslider({
+  animation: "slide",
+  manualControls: ".flex-control-nav li",
+  useCSS: false /* Chrome fix*/
+});
     // making variables public
     slider.vars = $.extend({}, $.flexslider.defaults, options);
 
